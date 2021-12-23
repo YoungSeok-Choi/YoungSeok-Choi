@@ -1,4 +1,11 @@
-### Hi there 👋
+<h2>Junior BE Engineer<h2>
+	
+
+<h2>interest<h2>
+	- OOP
+	- Object-Oriented-Design
+	- Code refactoring
+	- RDBMS
 
 
 [![YoungSeok-Choi's github stats](https://github-readme-stats.vercel.app/api?username=YoungSeok-Choi)](https://github.com/anuraghazra/github-readme-stats)

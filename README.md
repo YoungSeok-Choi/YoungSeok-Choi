@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![YoungSeok-Choi's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+[![YoungSeok-Choi's github stats](https://github-readme-stats.vercel.app/api?username=YoungSeok-Choi)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ys-log.tistory.com/)](https://ys-log.tistory.com/)
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) -->

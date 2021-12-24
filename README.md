@@ -6,9 +6,9 @@
 	- Code refactoring<br>
 	- RDBMS<br><br><br>
 
-<div>
+
 [![YoungSeok-Choi's github stats](https://github-readme-stats.vercel.app/api?username=YoungSeok-Choi)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ys-log.tistory.com/)](https://ys-log.tistory.com/)

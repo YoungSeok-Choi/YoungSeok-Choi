@@ -1,11 +1,11 @@
-<h2>Junior BE Engineer<h2>
+<h3>Junior BE Engineer<h3>
 	
 
-<h2>interest<h2>
-	- OOP
-	- Object-Oriented-Design
-	- Code refactoring
-	- RDBMS
+<h3>interest<h3>
+	<br>- OOP<br>
+	- Object-Oriented-Design<br>
+	- Code refactoring<br>
+	- RDBMS<br>
 
 
 [![YoungSeok-Choi's github stats](https://github-readme-stats.vercel.app/api?username=YoungSeok-Choi)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,10 +1,12 @@
 <h1>안녕하세요 몰입의 즐거움을 지향하는 개발자 최용석 입니다.</h1>
 <h3>Junior BE Engineer</h3>
-<h3>interest</h3>
-	<br>- OOP<br>
-	- Object-Oriented-Design<br>
-	- Code refactoring<br>
-	- RDBMS<br><br><br>
+<h3>interests</h3>
+<ui>
+	<li>OOP</li>
+	<li>Object-Oriented-Design</li>
+	<li>Code refactoring</li>
+	<li>RDBMS</li>
+</ui>
 
 
 [![YoungSeok-Choi's github stats](https://github-readme-stats.vercel.app/api?username=YoungSeok-Choi)](https://github.com/anuraghazra/github-readme-stats)

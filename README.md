@@ -1,14 +1,15 @@
-<h3>Junior BE Engineer<h3>
-	
-
-<h3>interest<h3>
+<h1>안녕하세요 몰입의 즐거움을 지향하는 개발자 최용석 입니다.</h1>
+<h3>Junior BE Engineer</h3>
+<h3>interest</h3>
 	<br>- OOP<br>
 	- Object-Oriented-Design<br>
 	- Code refactoring<br>
-	- RDBMS<br>
+	- RDBMS<br><br><br>
 
+	<div>
+		[![YoungSeok-Choi's github stats](https://github-readme-stats.vercel.app/api?username=YoungSeok-Choi)](https://github.com/anuraghazra/github-readme-stats)
+	</div>
 
-[![YoungSeok-Choi's github stats](https://github-readme-stats.vercel.app/api?username=YoungSeok-Choi)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ys-log.tistory.com/)](https://ys-log.tistory.com/)
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) -->

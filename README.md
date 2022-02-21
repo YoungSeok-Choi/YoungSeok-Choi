@@ -1,5 +1,3 @@
-<h1>안녕하세요. 몰입을 좋아하는 개발자 최용석 입니다</h1>
-<h3>Junior BE Engineer</h3>
 <h3>interests</h3>
 	<ui>
 		<li>OOP</li>
